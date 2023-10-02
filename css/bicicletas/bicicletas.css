@@ -73,7 +73,7 @@
 .bicicletas-grid h2 {
     color: var(--cor-11);
 }
-.bicicletas-grid p, li{
+.bicicletas-grid p, .bicicletas-grid li{
     color: var(--cor-9);
 }
 .bicicletas-grid2 p, .bicicletas-grid2 li{
