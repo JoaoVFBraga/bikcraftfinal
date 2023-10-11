@@ -27,3 +27,9 @@
 
 /* Bicicletas detalhadas */
 @import "bicicletas-detalhadas/bicicletas-detalhadas.css";
+
+/* Contato */
+@import "contato/contato.css";
+
+/* Orçamento */
+@import "orcamento/orcamento.css";

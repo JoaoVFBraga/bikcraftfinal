@@ -1,0 +1,8 @@
+/* .escolha-a-sua {
+    display: none;
+} */
+.input-bikcraft:hover {
+    .escolha-a-sua {
+        display: none;
+    }
+}
