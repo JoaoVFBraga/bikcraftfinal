@@ -40,7 +40,7 @@
     content: "";
     height: 4px;
     width: 100%;
-    background-color: var(--cor-p1);
+    background-color: currentColor;
     display: block;
 }
 .tecnologialink:hover {

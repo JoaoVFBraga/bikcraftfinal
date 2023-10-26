@@ -12,3 +12,8 @@
 .botao:hover {
     background: linear-gradient(#ffb60d, #e59317);
 }
+
+/* Formulário */
+.ocupa3 {
+    grid-column: 1 / 3
+}
